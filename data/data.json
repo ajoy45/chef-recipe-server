@@ -4,25 +4,27 @@
      "years_of_experience": 15, 
      "description":"Rajesh Kumar is an experienced chef with over 15 years of experience in the culinary industry. He has worked in a variety of kitchens and restaurants, honing his skills and developing his passion for cooking. Chef John's specialty is fusion cuisine, which blends flavors and techniques from different culinary traditions to create unique and exciting dishes." , 
       "number_of_recipes": [
-        { "recipe_name": "Butter Chicken",
+        { 
+        "id":1,  
+        "recipe_name": "Butter Chicken",
         "cooking_method":"Broiling",
-        "rating":200,
+        "rating":5,
         "ingredients":[
             "garlic", "olive_oil", "chicken","tomatoes","rice"
         ]
       },
-      {
+      {  "id":2,  
         "recipe_name": "Chana Masala",
         "cooking_method":"Broiling",
-            "rating":200,
+            "rating":4,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
       },  
-      {
+      { "id":3,  
         "recipe_name": "Tandoori Chicken",
         "cooking_method":"Broiling",
-        "rating":200,
+        "rating":4.5,
         "ingredients":[
             "garlic", "olive_oil", "chicken","tomatoes","rice"
         ]
@@ -39,18 +41,26 @@
     "description":"Sumit Sharma is an experienced chef with over 8 years of experience in the culinary industry. He has worked in a variety of kitchens and restaurants, honing his skills and developing his passion for cooking. Chef John's specialty is fusion cuisine, which blends flavors and techniques from different culinary traditions to create unique and exciting dishes." ,
     "years_of_experience": 8,
     "number_of_recipes": [
-      {
+      { "id":1,  
         "recipe_name": "Chana Masala",
         "cooking_method":"Broiling",
-            "rating":200,
+            "rating":3.5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
       },
-      {
+      { "id":2,  
+        "recipe_name": "Chana Masala",
+        "cooking_method":"Broiling",
+            "rating":3.5,
+            "ingredients":[
+                "garlic", "olive_oil", "chicken","tomatoes","rice"
+            ]
+      },
+      { "id":3,  
         "recipe_name": "Masala Dosa",
         "cooking_method":"Broiling",
-            "rating":200,
+            "rating":5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
@@ -65,27 +75,27 @@
     "description":"Amit Singh is an experienced chef with over 12 years of experience in the culinary industry. He has worked in a variety of kitchens and restaurants, honing his skills and developing his passion for cooking. Chef John's specialty is fusion cuisine, which blends flavors and techniques from different culinary traditions to create unique and exciting dishes." ,
     "years_of_experience": 12,
     "number_of_recipes": [
-      {
+      { "id":1,  
         "recipe_name": "Tandoori Chicken",
         "cooking_method":"Broiling",
-        "rating":200,
+        "rating":4.5,
         "ingredients":[
             "garlic", "olive_oil", "chicken","tomatoes","rice"
         ]
         
       },
-      {
+      { "id":2,  
         "recipe_name": "Samosas",
         "cooking_method":"Broiling",
-        "rating":200,
+        "rating":3.9,
         "ingredients":[
             "garlic", "olive_oil", "chicken","tomatoes","rice"
         ]
       },
-      {
+      { "id":3,  
         "recipe_name": "Matar Paneer",
         "cooking_method":"Broiling",
-            "rating":200,
+            "rating":4.8,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
@@ -100,34 +110,34 @@
     "description":"Sunita Gupta is an experienced chef with over 20 years of experience in the culinary industry. He has worked in a variety of kitchens and restaurants, honing his skills and developing his passion for cooking. Chef John's specialty is fusion cuisine, which blends flavors and techniques from different culinary traditions to create unique and exciting dishes." ,
     "years_of_experience": 20,
     "number_of_recipes": [
-      {
+      { "id":1,  
         "recipe_name": "Chicken Korma",
         "cooking_method":"Broiling",
-        "rating":200,
+        "rating":5,
         "ingredients":[
             "garlic", "olive_oil", "chicken","tomatoes","rice"
         ]
       },
-      {
+      { "id":2,  
         "recipe_name": "Fish Curry",
         "cooking_method":"Broiling",
-            "rating":200,
+            "rating":4,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
       },
-      {
+      { "id":3,  
         "recipe_name": "Vegetable Biryani",
         "cooking_method":"Broiling",
-            "rating":200,
+            "rating":3.9,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
       },
-      {
+      { "id":4,  
         "recipe_name": "Lamb Rogan Josh",
         "cooking_method":"Broiling",
-            "rating":200,
+            "rating":4.5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
@@ -142,27 +152,27 @@
     "description":"shures Gupta is an experienced chef with over 30 years of experience in the culinary industry. He has worked in a variety of kitchens and restaurants, honing his skills and developing his passion for cooking. Chef John's specialty is fusion cuisine, which blends flavors and techniques from different culinary traditions to create unique and exciting dishes." ,
     "years_of_experience": 30,
     "number_of_recipes": [
-        {
+        { "id":1,  
             "recipe_name": "Samosas",
             "cooking_method":"Broiling",
-            "rating":200,
+            "rating":4.5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
             
           },
-          {
+          {"id":2,  
             "recipe_name": "Matar Paneer",
             "cooking_method":"Grilling",
-            "rating":300,
+            "rating":5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
           },
-          {
+          { "id":3,  
             "recipe_name": "Bhindi Masala",
             "cooking_method":"Poaching",
-            "rating":100,
+            "rating":3,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
@@ -177,26 +187,26 @@
     "description":"shaha Gupta is an experienced chef with over 10 years of experience in the culinary industry. He has worked in a variety of kitchens and restaurants, honing his skills and developing his passion for cooking. Chef John's specialty is fusion cuisine, which blends flavors and techniques from different culinary traditions to create unique and exciting dishes." ,
     "years_of_experience": 10,
     "number_of_recipes": [
-        {
+        {  "id":1,  
             "recipe_name": "Samosas",
             "cooking_method":"Broiling",
-            "rating":100,
+            "rating":4.5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
           },
-          {
+          { "id":2,  
             "recipe_name": "Matar Paneer",
             "cooking_method":"stubbing",
-            "rating":100,
+            "rating":5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
           },
-          {
+          { "id":3,  
             "recipe_name": "Bhindi Masala",
             "cooking_method":"Simmering",
-            "rating":100,
+            "rating":5,
             "ingredients":[
                 "garlic", "olive_oil", "chicken","tomatoes","rice"
             ]
